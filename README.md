@@ -25,6 +25,7 @@
 ```json
     /* Mods.json */
     "Mods": [
+        ...
         {
           "Version": "X.X.X",
           "Url": "http://example.download.link",
